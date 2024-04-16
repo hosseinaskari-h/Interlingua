@@ -9,7 +9,7 @@ The primary objective of this project is to observe and understand how AI agents
 This research aims to provide insights into the potential for AI to create unique linguistic structures, which could have profound implications for AI communication and interaction paradigms.
 Installation
 ```
-git clone https://github.com/hosseinaskari-h/interlingua
+git clone https://github.com/hosseinaskari-h/interlingua.git
 cd interlingua-project
 pip install -r requirements.txt
 ```
