@@ -16,10 +16,14 @@ git clone https://github.com/hosseinaskari-h/interlingua.git
 cd interlingua-project
 pip install -r requirements.txt
 ```
+
 Usage
+
 To run the main application run the main.ipynb file located in src/main
 
+
 License
+
 INTERLINGUA © 2024 by MohammadHossein AskariHezaveh is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 
