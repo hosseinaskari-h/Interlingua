@@ -1,5 +1,7 @@
 Interlingua
+
 Exploring Socio-Cultural Behaviours and Language Evolution in AI
+
 Overview
 The Interlingua Project is an initiative that explores the development of autonomous communication systems among artificial intelligence agents. 
 This project utilizes state-of-the-art machine learning models, including GPT-2, GPT-Neo, and BERT, to simulate and analyze how AI entities might evolve their own language, termed 'Interlingua', without human input.
@@ -7,6 +9,7 @@ This project utilizes state-of-the-art machine learning models, including GPT-2,
 Objective
 The primary objective of this project is to observe and understand how AI agents develop and refine their own language systems. 
 This research aims to provide insights into the potential for AI to create unique linguistic structures, which could have profound implications for AI communication and interaction paradigms.
+
 Installation
 ```
 git clone https://github.com/hosseinaskari-h/interlingua.git
